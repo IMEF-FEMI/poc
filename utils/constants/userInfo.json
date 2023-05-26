@@ -1,0 +1,20 @@
+  {
+    "documentNumber": "ABC123",
+    "spatialUnitCode": "ABC123",
+    "title": "Mr",
+    "firstname": "John",
+    "othername": "Doe",
+    "lastname": "Smith",
+    "typeOfIdentity": "National Identity card",
+    "dateOfIdentityIssuance": "2020-01-01",
+    "idNumber": "1234567890",
+    "mobileNumber": "1234567890",
+    "postalAddress": "123 Main Street",
+    "address": "123 Main Street",
+    "email": "nnheo@example.com",
+    "unitNumber": "1234567890",
+    "blockNumber": "1234567890",
+    "unitName": "Unit 1",
+    "orderNumber": "1234567890",
+    "dateOrdered": "2024-01-01"
+  }
